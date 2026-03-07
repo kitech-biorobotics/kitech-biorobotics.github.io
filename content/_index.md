@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
 
-        The **KITECH Bio-Robotics Lab** advances research in biomechatronics/wearable robotics for human being, included advanced robotic actuator technologies, and data-driven human motion sensing and understanding.
+        The **KITECH Bio-Robotics Lab** advances research in biomechatronics and wearable robotics for human assistance, including advanced robotic actuator technologies and data-driven human motion sensing and understanding.
   
   - block: collection
     content:
