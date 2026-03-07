@@ -1,6 +1,6 @@
 ---
 title: Bummo Ahn
-role: Principal Investigator
+role: Principal Investigator (Cheif)
 user_groups:
   - Principal Investigators 
 ---
