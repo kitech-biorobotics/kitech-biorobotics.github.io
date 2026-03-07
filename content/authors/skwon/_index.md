@@ -6,19 +6,6 @@ title: Suncheol Kwon
 first_name: Suncheol
 last_name: Kwon
 
-# Username (this should match the folder name)
-authors:---
-# Display name
-title: Suncheol Kwon
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
-authors: ---
-
-
 # Is this the primary user of the site?
 superuser: false
 
