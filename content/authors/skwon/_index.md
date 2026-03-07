@@ -12,5 +12,5 @@ interests:
 - Wearable Robotics
 - Biomechatronics
 - Robotic Actuators
-- Human Motion Analysis
+- Human Motion Analysis 
 ---
