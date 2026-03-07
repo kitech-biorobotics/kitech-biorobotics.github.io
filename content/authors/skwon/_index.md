@@ -9,7 +9,7 @@ last_name: Kwon
 # Username (this should match the folder name)
 authors:---
 # Display name
-title: Alice Wu 吳恩達
+title: Suncheol Kwon
 
 # Full name (for SEO)
 first_name: Alice
