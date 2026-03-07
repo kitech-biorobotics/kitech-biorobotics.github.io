@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        KITECH
+        Bio-Robotics Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+
+        The **KITECH Bio-Robotics Lab** advances research in biomechatronics/wearable robotics for human being, included advanced robotic actuator technologies, and data-driven human motion sensing and understanding.
   
   - block: collection
     content:
