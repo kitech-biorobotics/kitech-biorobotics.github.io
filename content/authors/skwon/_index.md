@@ -1,6 +1,8 @@
 ---
 title: Suncheol Kwon
 role: Principal Investigator
+user_groups:
+  - Principal Investigators
 
 organizations:
 - name: Korea Institute of Industrial Technology (KITECH)
