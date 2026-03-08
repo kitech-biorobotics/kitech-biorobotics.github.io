@@ -24,6 +24,8 @@ sections:
       text:
       count: 5
       filters:
+        folders:
+          - post
         author: ''
         category: ''
         exclude_featured: false
@@ -32,6 +34,14 @@ sections:
       offset: 0
       order: desc
       page_type: post
+      sort_by: Params.event_date
+      sort_ascending: false
+    design:
+      view: card
+      columns: "1"
+      css_class: news-clean
+      show_date: false
+      show_read_time: false
     design:
       view: card
       columns: '1'
