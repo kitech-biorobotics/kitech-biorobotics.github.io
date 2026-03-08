@@ -1,6 +1,6 @@
 ---
 title: Seungtae Park
-role: Graduate Student (PhD program)
+role: Graduate Student<br>(PhD program)
 
 user_groups:
 - Graduate Students
