@@ -1,6 +1,6 @@
 ---
 title: Siwoo Kim
-role: Graduate Student (Master program)
+role: Graduate Student<br>(Master program)
 
 user_groups:
 - Graduate Students
