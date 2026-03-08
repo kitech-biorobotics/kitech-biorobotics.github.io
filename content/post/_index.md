@@ -14,7 +14,7 @@ sections:
       sort_by: Params.event_date
       sort_ascending: false
     design:
-      view: compact
+      view: simple
       show_date: false
       show_read_time: false
     
