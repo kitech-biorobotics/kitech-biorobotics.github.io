@@ -1,11 +1,33 @@
 ---
 title: Publications
+type: landing
 
-# Listing view
-view: citation
+sections:
+  - block: collection
+    content:
+      title: Journal Articles
+      text: ""
+      count: 0
+      order: desc
+      filters:
+        folders:
+          - publication
+        publication_type: article-journal
+    design:
+      view: citation
+      columns: "1"
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+  - block: collection
+    content:
+      title: Conference Proceedings
+      text: ""
+      count: 0
+      order: desc
+      filters:
+        folders:
+          - publication
+        publication_type: paper-conference
+    design:
+      view: citation
+      columns: "1"
 ---
