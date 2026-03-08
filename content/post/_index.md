@@ -16,4 +16,6 @@ sections:
     design:
       view: compact
       show_date: false
+      show_read_time: false
+    
 ---
