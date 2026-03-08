@@ -6,8 +6,11 @@ sections:
   - block: collection
     content:
       title: News
+      count: 0
+      page_type: post
       filters:
-        page_type: post
+        folders:
+          - post
       sort_by: Params.event_date
       sort_ascending: false
     design:
