@@ -42,9 +42,6 @@ sections:
       css_class: news-clean
       show_date: false
       show_read_time: false
-    design:
-      view: card
-      columns: '1'
   
   - block: markdown
     content:
