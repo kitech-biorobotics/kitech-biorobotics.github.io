@@ -1,7 +1,18 @@
-.news-clean .article-metadata {
+/* News page (compact view) */
+.news-clean .article-metadata,
+.news-clean .stream-meta {
   display: none !important;
 }
 
-.news-clean .stream-meta {
+/* Homepage Latest News (card view) */
+.news-clean .card-simple .article-metadata,
+.news-clean .card .article-metadata,
+.news-clean .media.stream-item .article-metadata {
+  display: none !important;
+}
+
+.news-clean .card-simple .stream-meta,
+.news-clean .card .stream-meta,
+.news-clean .media.stream-item .stream-meta {
   display: none !important;
 }
