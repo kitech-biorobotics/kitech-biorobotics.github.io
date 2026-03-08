@@ -15,6 +15,7 @@ sections:
       sort_ascending: false
     design:
       view: simple
+      css_class: news-clean
       show_date: false
       show_read_time: false
     
