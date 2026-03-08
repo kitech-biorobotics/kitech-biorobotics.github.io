@@ -36,6 +36,7 @@ sections:
       title:
       subtitle:
       text: |
+        Our research spans wearable robotics, biosignal interfaces, robotic actuation, tactile sensing, and data-driven human motion understanding.
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: "1"
