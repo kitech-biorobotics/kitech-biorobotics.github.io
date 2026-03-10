@@ -23,25 +23,6 @@ email: skwon@kitech.re.kr
 
 bio: Researcher working on biomechatronics, wearable robotics, and biosignal-driven human–robot interaction.
 
-interests:
-  - Wearable Robotics
-  - Biomechatronics
-  - Biological signal-driven robots
-  - Human–robot interaction
-  - Assistive and rehabilitation robotics
-
-education:
-  courses:
-    - course: PhD in Mechanical Engineering
-      institution: KAIST
-      year: 2013
-    - course: MS in Mechanical Engineering
-      institution: KAIST
-      year: 2009
-    - course: BS in Mechanical Engineering
-      institution: Korea University
-      year: 2007
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -59,21 +40,19 @@ user_groups:
   - Principal Investigators
 ---
 
-Suncheol Kwon is a principal researcher at the **Korea Institute of Industrial Technology (KITECH)**, where he leads research on biomechatronics and wearable robotic systems for human assistance and rehabilitation.
+Suncheol Kwon is a principal researcher at the **Korea Institute of Industrial Technology (KITECH)** working on biomechatronics and wearable robotic technologies for human assistance and rehabilitation.
 
-His research focuses on the design of wearable robotic devices, biosignal-based human–machine interfaces, and biomechanical analysis of human motion for assistive robotic technologies.
-
-The goal of his work is to develop robotic systems that enhance human mobility and enable intuitive interaction between humans and intelligent machines.
+His research focuses on the development of wearable robotic systems, biosignal-driven human–robot interaction, and biomechanical analysis of human motion. His work aims to design robotic technologies that enhance human mobility and enable intuitive cooperation between humans and intelligent machines.
 
 ---
 
 ## Research Interests
 
-- Wearable robotic systems for mobility assistance and rehabilitation  
+- Wearable robotics and assistive robotic systems  
+- Biomechatronics and human-centered robotic design  
 - Biological signal-driven human–robot interaction  
-- Robotic actuation and transmission mechanisms  
 - Human motion sensing and biomechanical analysis  
-- Assistive and rehabilitation robotics  
+- Rehabilitation and assistive robotic technologies  
 
 ---
 
@@ -81,26 +60,25 @@ The goal of his work is to develop robotic systems that enhance human mobility a
 
 **Principal Researcher**  
 *Korea Institute of Industrial Technology (KITECH)*  
-2022 – Present  
+Sep. 2022 – Present  
 
 **Senior Research Officer**  
-*National Rehabilitation Center, Ministry of Health and Welfare, Korea*  
-2017 – 2022  
-
+*National Rehabilitation Center, Ministry of Health and Welfare, Republic of Korea*  
+Jan. 2017 – Sep. 2022  
 - Program Director, Medical and Rehabilitation Robot Pilot Supply Program  
 - Program Manager, Translational Research Program for Rehabilitation Robots  
 
 **Principal Research Engineer**  
-*Hyundai Mobis – Chassis Design Center*  
-2015 – 2016  
+*Hyundai Mobis, Chassis Design Center*  
+Oct. 2015 – Dec. 2016  
 
 **Senior Research Engineer**  
-*Hyundai Heavy Industries – Convergence Technology Institute*  
-2013 – 2015  
+*Hyundai Heavy Industries, Convergence Technology Institute*  
+Aug. 2013 – Sep. 2015  
 
 **Researcher**  
-*LG Chem – Battery Technology Center*  
-2005 – 2006  
+*LG Chem, Battery Technology Center*  
+Aug. 2005 – Feb. 2006  
 
 ---
 
@@ -110,23 +88,38 @@ The goal of his work is to develop robotic systems that enhance human mobility a
 Functional and Applied Biomechanics Section  
 Rehabilitation Medicine Department  
 National Institutes of Health (NIH), USA  
-2011  
+Jan. 2011 – Jul. 2011  
+
+Advisor: Prof. Hyung-Soon Park
 
 ---
 
-## Selected Publications
+## Education
 
-- *Variable Transmission With Actively Controllable Reduction Ratio*,  
-  IEEE/ASME Transactions on Mechatronics, 2025  
+**PhD in Mechanical Engineering**  
+KAIST, Aug. 2013  
 
-- *Passive Clutch System for the Selection of Concentric and Eccentric Exercises*,  
-  IEEE Access, 2024  
+Thesis: *Power assistance using surface electromyography and its influence on human movement stability*  
+Advisor: Prof. Jung Kim  
 
-- *Ankle dorsiflexion assistance of patients with foot drop using a powered ankle-foot orthosis to improve gait asymmetry*,  
-  Journal of NeuroEngineering and Rehabilitation, 2023  
+**MS in Mechanical Engineering**  
+KAIST, Jan. 2009  
 
-- *Movement Stability Analysis of Surface Electromyography-based Elbow Power Assistance*,  
-  IEEE Transactions on Biomedical Engineering, 2014  
+Thesis: *A physical human-machine interaction using SEMG of the upper limb*  
+Advisor: Prof. Jung Kim  
+
+**BS in Mechanical Engineering**  
+Korea University, Feb. 2007  
+
+---
+
+## Honors and Awards
+
+- Minister's Commendation, Ministry of Health and Welfare, 2020  
+- Outstanding Dissertation Award, KAIST, 2011  
+- Wooduk Scholarship, Wooduk Foundation, 2011  
+- Mirae Woohak Scholarship, Mirae Woohak Foundation, 2006  
+- Multiple Semester High Honors Scholarships, Korea University  
 
 ---
 
