@@ -65,7 +65,7 @@ Sep. 2022 – Present
 **Senior Research Officer**  
 *National Rehabilitation Center, Ministry of Health and Welfare, Republic of Korea*  
 Jan. 2017 – Sep. 2022  
-- Program Director, Medical and Rehabilitation Robot Pilot Supply Program  
+- Program Manager, Medical and Rehabilitation Robot Pilot Supply Program  
 - Program Manager, Translational Research Program for Rehabilitation Robots  
 
 **Principal Research Engineer**  
