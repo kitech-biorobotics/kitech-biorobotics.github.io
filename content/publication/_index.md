@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: Journal Articles
+      title: International Journal Articles
       text: ""
       count: 0
       order: desc
@@ -19,7 +19,7 @@ sections:
 
   - block: collection
     content:
-      title: Conference Proceedings
+      title: Peer-reviewed International Conference Proceedings
       text: ""
       count: 0
       order: desc
