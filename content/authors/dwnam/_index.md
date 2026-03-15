@@ -9,7 +9,7 @@ authors:
 
 superuser: false
 
-role: Principal Investigator
+role: Alumni
 
 organizations:
   - name: Korea Institute of Industrial Technology (KITECH)
